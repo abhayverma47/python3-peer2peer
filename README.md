@@ -2,7 +2,7 @@
 files for peer to peer session
 
 link to the map of the session
-https://coggle.it/diagram/XinmIJbiFV7A7mzJ/t/python3-peer2peer-session?present=1
+https://coggle.it/diagram/Xj2qBpiXns_J_UGW/t/python3-peer2peer-session-2020-1-25-02-13
 
 
 link for the question of picture drawing
